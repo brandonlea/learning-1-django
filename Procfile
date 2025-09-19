@@ -1,0 +1,1 @@
+web: guincorn my_project.wsgi
